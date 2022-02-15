@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
-title: "Lecture 13: Sparse Regularity and the Green-Tao Theorem \t"
+title: 'Lecture 13: Sparse Regularity and the Green-Tao Theorem  '
 uid: 0c5c9dcb-7e95-bd08-29be-4ca9bbf90d89
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec13_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/6ad110c320a75c0cb4b0b3729da81733_EnPjyNsEHQM.vtt
+  video_captions_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/6ad110c320a75c0cb4b0b3729da81733_EnPjyNsEHQM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/EnPjyNsEHQM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/719c44659600d4cc8f7892c1f83b7c0f_EnPjyNsEHQM.pdf
+  video_transcript_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/719c44659600d4cc8f7892c1f83b7c0f_EnPjyNsEHQM.pdf
 video_metadata:
   youtube_id: EnPjyNsEHQM
 ---

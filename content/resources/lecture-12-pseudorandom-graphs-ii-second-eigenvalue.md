@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
-title: "Lecture 12: Pseudorandom Graphs II: Second Eigenvalue \t"
+title: 'Lecture 12: Pseudorandom Graphs II: Second Eigenvalue  '
 uid: 2ad01c27-7aaf-d1f2-26b8-b3fafe4a62ed
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/534a91da413c51169e6502c99d8f24ba_Rlvwagd2BmY.vtt
+  video_captions_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/534a91da413c51169e6502c99d8f24ba_Rlvwagd2BmY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Rlvwagd2BmY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/66ec195271bf015e7ddb0a903c73cb31_Rlvwagd2BmY.pdf
+  video_transcript_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/66ec195271bf015e7ddb0a903c73cb31_Rlvwagd2BmY.pdf
 video_metadata:
   youtube_id: Rlvwagd2BmY
 ---

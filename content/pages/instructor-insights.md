@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 77dd408b-eb53-cf0d-4006-fa81cd36ff5d
 ---
@@ -74,20 +76,6 @@ There are no formal prerequisites for 18.217, but the course presupposes mathema
 ### Offered
 
 18.217 is taught every fall semester, but with a different topic each year.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![The front of a lecture hall, showing several rows of seats and a set of sliding chalkboards.]({{< resource_file 5d2e43ee-da19-5594-28ad-9c9a7ffb3e3c >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Classes were held in a lecture hall with seating for 134, equipped with A/V equipment and sliding chalkboards.
-    
 
 Assessment
 ----------

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Pseudorandom Graphs I: Quasirandomness'
 uid: 2fbfd677-578d-0da2-087d-81966abe8aff
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec11_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/4a777e19b8375cc7a482b1d1099f5481_TgPcNnUrE24.vtt
+  video_captions_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/4a777e19b8375cc7a482b1d1099f5481_TgPcNnUrE24.vtt
   video_thumbnail_file: https://img.youtube.com/vi/TgPcNnUrE24/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/733d56b5fa0ba8dfccee8f2f6f26c69c_TgPcNnUrE24.pdf
+  video_transcript_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/733d56b5fa0ba8dfccee8f2f6f26c69c_TgPcNnUrE24.pdf
 video_metadata:
   youtube_id: TgPcNnUrE24
 ---

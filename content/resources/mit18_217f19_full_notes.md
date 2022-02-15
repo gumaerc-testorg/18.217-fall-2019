@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/212e032b28e58a46e62f5a32d295821e_MIT18_217F19_full_notes.pdf
+file: /media/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/212e032b28e58a46e62f5a32d295821e_MIT18_217F19_full_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '18.217 F2019 Full Lecture Notes: Graph Theory and Additive Combinatorics'
 uid: 212e032b-28e5-8a46-e62f-5a32d295821e

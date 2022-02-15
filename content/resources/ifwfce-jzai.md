@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/db32723be75c96dbe3530bad9ffb81b2_IfwfCe-JZaI.srt
+file: /media/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/db32723be75c96dbe3530bad9ffb81b2_IfwfCe-JZaI.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: db32723b-e75c-96db-e353-0bad9ffb81b2

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
-title: "Lecture 16: Graph Limits III: Compactness and Applications \t"
+title: 'Lecture 16: Graph Limits III: Compactness and Applications  '
 uid: 0031a0d0-91af-8db0-e3f3-25c0a2be7582
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec16_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/b0e4ec30418851ccb1678423002e0bb1_nCWwhF0TkVI.vtt
+  video_captions_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/b0e4ec30418851ccb1678423002e0bb1_nCWwhF0TkVI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/nCWwhF0TkVI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-217-graph-theory-and-additive-combinatorics-fall-2019/dac589ce07a112610c2fc6da2b2653bf_nCWwhF0TkVI.pdf
+  video_transcript_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/dac589ce07a112610c2fc6da2b2653bf_nCWwhF0TkVI.pdf
 video_metadata:
   youtube_id: nCWwhF0TkVI
 ---
