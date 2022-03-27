@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 10: Szemer\xE9di\u2019s Graph Regularity Lemma V: Hypergraph Removal\
   \ and Spectral Proof "
 uid: 5ca760ec-4c0a-ba7b-ab74-9f401ba0123d

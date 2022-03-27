@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cf54504d-5a26-89a4-4304-4397ad7413ea
 resourcetype: Document
 title: 18.217 F2019 Problem Set
 uid: c5f584f5-4030-6d3c-fa9e-aa1d39546279

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Sparse Regularity and the Green-Tao Theorem  '
 uid: 0c5c9dcb-7e95-bd08-29be-4ca9bbf90d89
 video_files:

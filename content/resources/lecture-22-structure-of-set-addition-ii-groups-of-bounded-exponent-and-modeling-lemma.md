@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Structure of Set Addition II: Groups of Bounded Exponent and Modeling
   Lemma '
 uid: e04cbef2-ab7a-ab5c-3777-be80a9969ed9

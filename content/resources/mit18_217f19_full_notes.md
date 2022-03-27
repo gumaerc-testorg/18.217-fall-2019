@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: af8cdd44-fd58-17d4-70a8-8d9fb69323d7
 resourcetype: Document
 title: '18.217 F2019 Full Lecture Notes: Graph Theory and Additive Combinatorics'
 uid: 212e032b-28e5-8a46-e62f-5a32d295821e

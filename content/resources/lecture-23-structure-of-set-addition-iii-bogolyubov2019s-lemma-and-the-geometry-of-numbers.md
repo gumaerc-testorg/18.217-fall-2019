@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 23: Structure of Set Addition III: Bogolyubov\u2019s Lemma and the\
   \ Geometry of Numbers "
 uid: f11c9ceb-3911-f232-c9ed-2aa6525a1ed8

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 8: Szemer\xE9di\u2019s Graph Regularity Lemma III: Further Applications"
 uid: b6ec7ed5-65a6-2777-8005-e37e13d2d76e
 video_files:

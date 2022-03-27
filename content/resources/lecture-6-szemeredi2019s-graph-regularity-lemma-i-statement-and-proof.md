@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 6: Szemer\xE9di\u2019s Graph Regularity Lemma I: Statement and Proof"
 uid: 49f44a94-2cee-be77-51e2-353ccb96a00d
 video_files:
