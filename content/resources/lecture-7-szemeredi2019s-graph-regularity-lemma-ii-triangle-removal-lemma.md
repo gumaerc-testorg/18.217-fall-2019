@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: "Lecture 7: Szemer\xE9di\u2019s Graph Regularity Lemma II: Triangle Removal\
   \ Lemma"
 uid: 5954e1a2-a480-d4c4-ceae-5bef203062cb

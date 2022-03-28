@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: "Lecture 20: Roth\u2019s Theorem III: Polynomial Method and Arithmetic Regularity "
 uid: 53723007-d495-5c4a-225c-c3e200e37bcd
 video_files:

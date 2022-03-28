@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: "Lecture 2: Forbidding a Subgraph I: Mantel\u2019s Theorem and Tur\xE1n\u2019\
   s Theorem"
 uid: aa824241-1777-a91b-4d66-84e6523f35b7

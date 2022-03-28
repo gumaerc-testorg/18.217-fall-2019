@@ -5,6 +5,7 @@ file: /media/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/43
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 43c716f8-405f-7be6-a6ef-f075ea22908c

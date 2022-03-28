@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: "Lecture 18: Roth\u2019s Theorem I: Fourier Analytic Proof over Finite Field\
   \  "
 uid: b6005bf7-bcb8-7c4e-c8c8-c0b1c9014989
