@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 25: Structure of Set Addition V: Additive Energy and Balog-Szemer\xE9\
   di-Gowers Theorem "
 uid: 82880211-e6a5-71b1-a4a5-9e3e00745d16
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Additive energy is a measure of additive structure. Professor Zhao explains why a set with large additive energy must have a large subset of small doubling. The proof is graph theoretic and uses the dependent random choice method.
 
 **Instructor:** Yufei Zhao
+
+
+

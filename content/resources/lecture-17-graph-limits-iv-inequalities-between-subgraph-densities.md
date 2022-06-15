@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Graph Limits IV: Inequalities between Subgraph Densities  '
 uid: 9b03e8fc-96b4-90be-cb0c-e26fb3066090
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Among all graphs with a given edge density, which graph has the maximum/minimum triangle density? Professor Zhao explains extremal problems on subgraph densities using the framework of graph limits.
 
 **Instructor:** Yufei Zhao
+
+
+

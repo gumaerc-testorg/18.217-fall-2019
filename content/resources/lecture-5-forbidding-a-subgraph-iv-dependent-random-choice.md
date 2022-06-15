@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Forbidding a Subgraph IV: Dependent Random Choice'
 uid: eea7e58e-e224-ec11-a048-70cc32561e7d
 video_files:
@@ -29,3 +30,6 @@ video_metadata:
 (The video is unfortunately cut off near the end due to technical issues with the recording. Students can refer to the notes for details.)
 
 **Instructor:** Yufei Zhao
+
+
+

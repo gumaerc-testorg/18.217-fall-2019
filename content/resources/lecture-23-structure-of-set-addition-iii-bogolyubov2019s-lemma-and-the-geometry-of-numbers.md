@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 23: Structure of Set Addition III: Bogolyubov\u2019s Lemma and the\
   \ Geometry of Numbers "
 uid: f11c9ceb-3911-f232-c9ed-2aa6525a1ed8
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Professor Zhao discusses additional tools for proving Freiman’s theorem: (1) Bogolyubov’s lemma for finding a large Bohr set in 2A−2A, whose proof uses Fourier analysis, and (2) the geometry of numbers, with an application of Minkowski’s second theorem on lattices.
 
 **Instructor:** Yufei Zhao
+
+
+

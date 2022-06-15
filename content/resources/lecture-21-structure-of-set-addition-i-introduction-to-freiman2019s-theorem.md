@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 21: Structure of Set Addition I: Introduction to Freiman\u2019s Theorem\
   \  "
 uid: c4fbcecc-d2da-f745-5161-0e6adcd67b87
@@ -30,3 +31,6 @@ video_metadata:
 This lecture begins with a discussion and statement of Freiman’s theorem, and then basic tools including Ruzsa triangle inequality and Plünnecke–Ruzsa inequality.
 
 **Instructor:** Yufei Zhao
+
+
+

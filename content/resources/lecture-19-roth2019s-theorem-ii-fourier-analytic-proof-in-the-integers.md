@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 19: Roth\u2019s Theorem II: Fourier Analytic Proof in the Integers\
   \  "
 uid: d334e849-3200-dbf1-e325-efa9e4af1524
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** This lecture covers Roth’s original proof of Roth’s theorem in the integers, via a Fourier analytic density increment argument. It is recommended to first view the previous lecture where the method is first explained in the easier finite field setting.
 
 **Instructor:** Yufei Zhao
+
+
+

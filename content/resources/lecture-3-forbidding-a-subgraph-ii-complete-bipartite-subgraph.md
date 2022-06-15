@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Forbidding a Subgraph II: Complete Bipartite Subgraph'
 uid: 5017d397-4e8b-1b8e-325d-88e6a5ba7e1b
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** What is the maximum number of edges in a graph forbidding a cycle of length four? What about forbidding a complete bipartite graph of a fixed size? Professor Zhao discusses the Kővári–Sós–Turán theorem, which gives an upper bound. In the case of 4-cycles, a matching algebraic construction of a C4-free graph is also demonstrated.
 
 **Instructor:** Yufei Zhao
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/c5f584f540306d3cfa9eaa1d39546279_MIT18_217F19_pset.pdf
+file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/c5f584f540306d3cfa9eaa1d39546279_MIT18_217F19_pset.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

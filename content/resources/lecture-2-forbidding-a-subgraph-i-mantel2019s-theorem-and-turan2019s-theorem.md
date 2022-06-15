@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 2: Forbidding a Subgraph I: Mantel\u2019s Theorem and Tur\xE1n\u2019\
   s Theorem"
 uid: aa824241-1777-a91b-4d66-84e6523f35b7
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Which triangle-free graph has the maximum number of edges given the number of vertices? Professor Zhao shows the class Mantel’s theorem, which says that the answer is a complete bipartite graph. He also discusses generalizations: Turán’s theorem (for cliques) and the Erdős–Stone–Simonovits theorem (for general subgraphs).
 
 **Instructor:** Yufei Zhao
+
+
+

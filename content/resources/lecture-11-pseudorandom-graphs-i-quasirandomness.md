@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Pseudorandom Graphs I: Quasirandomness'
 uid: 2fbfd677-578d-0da2-087d-81966abe8aff
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Pseudorandom graphs are graphs that behave like random graphs in certain prescribed ways. In this lecture, Professor Zhao discusses a classic result of Chung, Graham, and Wilson, which shows that many definitions of quasirandom graphs are surprisingly equivalent. This result highlights the role of 4-cycles in pseudorandomness. The expander mixing lemma is also discussed near the end of the lecture.
 
 **Instructor:** Yufei Zhao
+
+
+

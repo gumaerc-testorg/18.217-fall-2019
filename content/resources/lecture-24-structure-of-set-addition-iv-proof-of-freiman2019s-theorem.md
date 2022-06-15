@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 24: Structure of Set Addition IV: Proof of Freiman\u2019s Theorem\
   \  "
 uid: e39d9fc6-8aca-8c85-04fb-0b757b9d4afe
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** This lecture concludes the proof of Freiman’s theorem on sets of small doubling. Professor Zhao also discusses additional topics related to Freiman’s theorem, including extensions to groups (abelian and nonabelian), and the polynomial Freiman–Ruzsa conjecture, which is a central open problem in additive combinatorics.
 
 **Instructor:** Yufei Zhao
+
+
+

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26: Sum-Product Problem and Incidence Geometry '
 uid: 041b5e96-b657-71fa-0e0b-4b0a927db8ed
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A famous open problem says that no set of integers can simultaneously have a small sum set A+A and a small product set AA. In the final lecture of this course, Professor Zhao explains two bounds, with the first using tools from graph theory and incidence geometry, and the second using multiplicative energy.
 
 **Instructor:** Yufei Zhao
+
+
+

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Graph Limits I: Introduction  '
 uid: e4fc7771-fc71-a9b7-3450-9d1e25084236
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Graph limits provide a beautiful analytic framework for studying very large graphs. Professor Zhao explains what graph limits are, and their key definitions and theorems (equivalence, limit, compactness).
 
 **Instructor:** Yufei Zhao
+
+
+

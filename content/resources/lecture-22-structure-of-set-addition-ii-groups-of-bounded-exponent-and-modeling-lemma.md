@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Structure of Set Addition II: Groups of Bounded Exponent and Modeling
   Lemma '
 uid: e04cbef2-ab7a-ab5c-3777-be80a9969ed9
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Continuing the discussion of Freiman’s theorem, Professor Zhao explains the Ruzsa covering lemma and uses it to prove Freiman’s theorem in groups of bounded exponent. He then explains Freiman homomorphisms, which are maps that partially preserve additive structure, as well as the modeling lemma.
 
 **Instructor:** Yufei Zhao
+
+
+
