@@ -1,15 +1,15 @@
 ---
 content_type: page
+description: In this section, Professor Yufei Zhao describes various aspects of how
+  he taught 18.217 Graph Theory and Additive Combinatorics.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: 77dd408b-eb53-cf0d-4006-fa81cd36ff5d
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Professor Yufei Zhao describes various aspects of how he taught _18.217 Graph Theory and Additive Combinatorics_.
 
@@ -63,8 +63,7 @@ Writing good Wikipedia entries is challenging. One common problem with student c
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -78,22 +77,22 @@ There are no formal prerequisites for 18.217, but the course presupposes mathema
 
 18.217 is taught every fall semester, but with a different topic each year.
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The final grade was determined by the _minimum_ of the student’s performance in two categories:
 
-*   6 problem sets
-*   Writing assignments, consisting of (1) course notes and (2) Wikipedia contributions.
+- 6 problem sets
+- Writing assignments, consisting of (1) course notes and (2) Wikipedia contributions.
 
 There were no exams. For borderline grades, participation could play a factor in determining the final grade. In addition, there was a list of open problems for which any significant progress/resolution could, at the discretion of the instructor, result in a grading bonus, overriding the above grading criteria.
 
-Student Information
--------------------
+## Student Information
 
-![44 students took this course when it was taught in Fall 2019.]({{< resource_file b11f3254-a925-65c7-d786-acd8c283e054 >}})
+### Enrollment
+
+44 students
 
 ### Breakdown by Year
 
@@ -109,17 +108,14 @@ The subject tends to appeal to students who enjoy mathematical problem solving.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
 
-Out of Class
-------------
+### Out of Class
 
 Outside of class, students spent their time solving problems from the five assigned problem sets and completing the two writing assignments.
