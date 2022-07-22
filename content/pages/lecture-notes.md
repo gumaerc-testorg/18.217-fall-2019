@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section includes a full lecture notes and 8 lecture notes by topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: af8cdd44-fd58-17d4-70a8-8d9fb69323d7
 ---
 
-The ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[full lecture notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit18_217f19_full_notes) and the notes by topic below were written by the students of the class based on the lectures and edited with the help of Professor Yufei Zhao. Used with permission.
+The {{% resource_link 212e032b-28e5-8a46-e62f-5a32d295821e "full lecture notes (PDF - 1.4MB)" %}} and the notes by topic below were written by the students of the class based on the lectures and edited with the help of Professor Yufei Zhao. Used with permission.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -24,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A bridge between graph theory and additive combinatorics (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch1)
+{{% resource_link caea3432-2281-762d-1929-a26ebb7a4cf2 "A bridge between graph theory and additive combinatorics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ TOPICS
 2–5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Forbidding subgraphs (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch2)
+{{% resource_link 0896190a-bf63-1139-c59f-ed17f3bec5a1 "Forbidding subgraphs (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ TOPICS
 6–10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Szemerédi’s regularity lemma (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch3)
+{{% resource_link a5281a21-9e31-cddd-10e5-fe74434087a9 "Szemerédi’s regularity lemma (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ TOPICS
 11–13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pseudorandom graphs (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch4)
+{{% resource_link 1e1f9508-6235-c68b-c727-d7e3bdcdfdac "Pseudorandom graphs (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ TOPICS
 14–17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Graph limits (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch5)
+{{% resource_link b28726e8-c835-f149-e978-ee24a6294d81 "Graph limits (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ TOPICS
 18–20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Roth’s theorem (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch6)
+{{% resource_link ac3e73e3-3e24-952a-04fb-304a7c1b8882 "Roth’s theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ TOPICS
 21–25
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Structure of set addition (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch7)
+{{% resource_link c145c88a-b6b5-6bf0-4e52-b1bc51a2d592 "Structure of set addition (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +91,7 @@ TOPICS
 26
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The sum-product problem (PDF)]({{< baseurl >}}/resources/mit18_217f19_ch8)
+{{% resource_link 4ed20fca-799d-d498-14d5-f8eaad6aac11 "The sum-product problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
