@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Szemerédi’s graph regularity lemma is a powerful tool in graph theory that gives a rough structural characterization of all large dense graphs. In this lecture, Professor Zhao explains the statement and proof of the regularity lemma.
 
 **Instructor:** Yufei Zhao
-
-
 

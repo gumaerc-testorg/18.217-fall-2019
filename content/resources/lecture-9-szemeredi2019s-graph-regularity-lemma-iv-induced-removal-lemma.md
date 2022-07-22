@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** Professor Zhao explains a strengthening of the graph regularity method that is then used to prove the induced graph removal lemma. He also discusses applications of the regularity method in computer science to graph property testing.
 
 **Instructor:** Yufei Zhao
-
-
 

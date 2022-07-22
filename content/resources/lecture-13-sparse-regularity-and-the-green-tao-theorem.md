@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** After a brief discussion of Ramanujan graphs, Professor Zhao discusses one of his favorite topics (also the subject of his own PhD dissertation): the regularity method for sparse graphs and its application to the celebrated Green–Tao theorem that the primes contain arbitrarily long arithmetic progressions.
 
 **Instructor:** Yufei Zhao
-
-
 

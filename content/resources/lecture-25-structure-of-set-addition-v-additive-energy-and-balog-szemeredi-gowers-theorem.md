@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** Additive energy is a measure of additive structure. Professor Zhao explains why a set with large additive energy must have a large subset of small doubling. The proof is graph theoretic and uses the dependent random choice method.
 
 **Instructor:** Yufei Zhao
-
-
 

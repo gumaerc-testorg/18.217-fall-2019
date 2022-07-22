@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Graph limits provide a beautiful analytic framework for studying very large graphs. Professor Zhao explains what graph limits are, and their key definitions and theorems (equivalence, limit, compactness).
 
 **Instructor:** Yufei Zhao
-
-
 

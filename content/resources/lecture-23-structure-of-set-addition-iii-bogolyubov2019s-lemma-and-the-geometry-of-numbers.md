@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** Professor Zhao discusses additional tools for proving Freiman’s theorem: (1) Bogolyubov’s lemma for finding a large Bohr set in 2A−2A, whose proof uses Fourier analysis, and (2) the geometry of numbers, with an application of Minkowski’s second theorem on lattices.
 
 **Instructor:** Yufei Zhao
-
-
 

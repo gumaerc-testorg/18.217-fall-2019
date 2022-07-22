@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** Which triangle-free graph has the maximum number of edges given the number of vertices? Professor Zhao shows the class Mantel’s theorem, which says that the answer is a complete bipartite graph. He also discusses generalizations: Turán’s theorem (for cliques) and the Erdős–Stone–Simonovits theorem (for general subgraphs).
 
 **Instructor:** Yufei Zhao
-
-
 

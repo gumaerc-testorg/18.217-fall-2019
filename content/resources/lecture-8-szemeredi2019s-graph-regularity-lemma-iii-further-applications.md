@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ video_metadata:
 The second half of the lecture discusses further applications of the regularity method within graph theory: graph embedding, counting, and removal lemmas, as well as a proof of the Erdős–Stone–Simonovits theorem on H-free graphs.
 
 **Instructor:** Yufei Zhao
-
-
 

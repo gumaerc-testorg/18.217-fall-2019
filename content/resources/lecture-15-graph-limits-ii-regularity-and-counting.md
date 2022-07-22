@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Continuing the discussion of graph limits, Professor Zhao explains how graph limits can be used to generate random graphs, and also some key tools in the theory of graph limits, including the counting lemma, weak regularity lemma, and the martingale convergence theorem.
 
 **Instructor:** Yufei Zhao
-
-
 

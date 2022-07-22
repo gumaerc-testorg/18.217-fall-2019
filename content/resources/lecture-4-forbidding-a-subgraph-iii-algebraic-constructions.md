@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** How does one construct graphs that do not contain complete bipartite subgraphs of a given size? Professor Zhao explains algebraic constructions known as norm graphs and more recent constructions based on the use of random polynomials.
 
 **Instructor:** Yufei Zhao
-
-
 

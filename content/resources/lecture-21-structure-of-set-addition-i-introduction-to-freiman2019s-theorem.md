@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ video_metadata:
 This lecture begins with a discussion and statement of Freiman’s theorem, and then basic tools including Ruzsa triangle inequality and Plünnecke–Ruzsa inequality.
 
 **Instructor:** Yufei Zhao
-
-
 
