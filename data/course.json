@@ -43,8 +43,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "5c40b898-5fd6-4616-953e-7fd2af099659",
+  "site_uid": "da13fd19-bb36-4b4a-84b4-372c1cbff55f",
+  "site_short_id": "18.217-fall-2019",
   "title": "Course Metadata"
 }
