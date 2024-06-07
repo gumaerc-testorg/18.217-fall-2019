@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/67a754aaf2689f60520986277e76841d_vcsxCFSLyP8.pdf
+file_size: 73679
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
