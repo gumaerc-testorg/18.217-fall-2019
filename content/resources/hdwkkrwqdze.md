@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/dddcd214c8a77a1a124ccef0b6055b86_hDwkKrWqdZE.srt
+file: /ol-ocw-studio-app/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/dddcd214c8a77a1a124ccef0b6055b86_hDwkKrWqdZE.srt
 file_size: 81874
 file_type: application/x-subrip
 learning_resource_types: []
