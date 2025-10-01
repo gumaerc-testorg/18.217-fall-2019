@@ -27,7 +27,7 @@ I am very happy to see that several of the students who took the first iteration
 
 I built on a popular practice of asking students to “scribe” notes for individual lectures. Making good notes takes a lot of work and requires feedback from the lecturer.
 
-To streamline this process, I created a single document on [Overleaf](http://overleaf.com), an online collaborative LaTeX editor. I asked students to sign up to cover lectures. The document was carefully set up on Overleaf so that students could add their lectures as new sections into the larger document. Other students in the class could then edit and correct these notes as the semester goes on.
+To streamline this process, I created a single document on {{% resource_link "a813d7bc-8064-4ab4-bfe0-c45a3ca69955" "Overleaf" %}}, an online collaborative LaTeX editor. I asked students to sign up to cover lectures. The document was carefully set up on Overleaf so that students could add their lectures as new sections into the larger document. Other students in the class could then edit and correct these notes as the semester goes on.
 
 {{< div-with-class "reveal1">}}
 
@@ -55,7 +55,7 @@ It was also important to set deadlines. The student covering a given lecture was
 
 **Yufei Zhao:** As with the course notes writing assignments, students appreciated the meaningful nature of the assignment, in that they were contributing to a resource that would be useful to others (including themselves). I motivated students to engage with the assignment by telling the class that for most of us, whenever we first encounter a new term or concept, our gut instinct is to type it into Google, and often one of the top results is the Wikipedia entry. This makes Wikipedia an important entry point into knowledge, so it’s important that we do a good job to make it useful.
 
-Writing good Wikipedia entries is challenging. One common problem with student contributions is that the articles end up too technical to be useful to non-specialists. I asked the students to imagine a reader who is a slightly younger version of themselves, before they properly learned the subject. One especially good example of a Wikipedia page created by a student in the class is the one on [Sidorenko’s conjecture](https://en.wikipedia.org/wiki/Sidorenko%27s_conjecture). 
+Writing good Wikipedia entries is challenging. One common problem with student contributions is that the articles end up too technical to be useful to non-specialists. I asked the students to imagine a reader who is a slightly younger version of themselves, before they properly learned the subject. One especially good example of a Wikipedia page created by a student in the class is the one on {{% resource_link "792e2c6c-6267-4e26-9351-1998d5669bfc" "Sidorenko’s conjecture" %}}. 
 
 **OCW:** What would you like to share about teaching 18.217 that we haven’t yet addressed?
 
@@ -71,7 +71,7 @@ There are no formal prerequisites for 18.217, but the course presupposes mathema
 
 ### Requirements Satisfied
 
-18.217 can be applied toward a doctorate degree in [Pure or Applied Mathematics](http://math.mit.edu/academics/grad/index.php), but is not required.
+18.217 can be applied toward a doctorate degree in {{% resource_link "6872b2cf-3dda-4f0e-bf68-2272af91146a" "Pure or Applied Mathematics" %}}, but is not required.
 
 ### Offered
 
